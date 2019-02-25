@@ -1,0 +1,1 @@
+Available shapes for your selection: [Square, Rectangle]

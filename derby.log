@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Feb 25 12:09:55 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0169-2421-e4d3-000006e7f4c8 
+on database directory C:\Users\mihaela.macovei\Desktop\Java\Assignment3\Assignment3_DB  with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/mihaela.macovei/Desktop/Java/Assignment3/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\mihaela.macovei\Desktop\Java\Assignment3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
